@@ -19,7 +19,7 @@ public class StandAloneTest {
 
 	public static void main(String[] args) {
 	
-		//new comments for GitHub and CICD
+		//newest comments for GitHub and CICD
 		
 		String productName= "ZARA COAT 3";
 		
